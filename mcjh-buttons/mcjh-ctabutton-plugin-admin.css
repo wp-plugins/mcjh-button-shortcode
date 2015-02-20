@@ -1,0 +1,234 @@
+a.ctabutton {
+
+	text-decoration:none !important;
+
+	font-weight:900 !important;
+
+	width:200px;
+
+	height:36px;
+
+	padding-top:15px;
+
+	display:block;
+
+	background-repeat:no-repeat;
+
+	background-position:top left;
+
+	text-align:center;
+
+	background-size:cover !important;
+	
+	border:none;
+	
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+
+}
+
+
+
+a.ctabutton:hover {
+
+	opacity:0.9;
+
+	filter: alpha(opacity=90);
+	box-shadow:1px 1px 7px #fff;
+
+}	
+
+.mcjh-custom-color, .mcjh-custom-color:hover {
+	color:#fff !important;
+}
+
+.mcjh-blue, .mcjh-blue:hover {
+
+	color:#fff !important;
+
+}
+
+.mcjh-darkblue, .mcjh-darkblue:hover {
+
+	color:#fff !important;
+
+}
+
+.mcjh-green, .mcjh-green:hover {
+
+	color:#fff !important;
+
+	}
+
+.mcjh-darkgreen, .mcjh-darkgreen:hover {
+
+	color:#fff !important;
+
+	}
+
+.mcjh-grey, .mcjh-grey:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-lightgrey, .mcjh-lightgrey:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-orange, .mcjh-orange:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-pink, .mcjh-pink:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-purple, .mcjh-purple:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-red, .mcjh-red:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-yellow{
+
+	color:#fff !important;
+
+	}
+
+
+h2.icon:before {
+
+	font-family: "dashicons";
+
+	vertical-align:middle;
+
+	/*content: "\f111";*/
+
+	content: "\f123";
+
+	margin-right:5px;
+
+}
+
+.mcjh-allround-wrap {
+
+	width:99%;
+
+	max-width:600px;
+
+}
+
+.mcjh-settings {
+
+	border-bottom: 1px solid #ccc;
+
+	padding-bottom:10px;
+
+	padding-top:10px;
+
+	margin-top:10px;
+
+	margin-right:20px;
+
+}
+
+#index-ct {
+
+	background-color:#fff;
+
+	border: 1px solid #ccc;
+
+	padding:15px;
+
+	width:100%;
+
+	max-width:250px;
+
+}
+
+
+
+/*#index-ct strong:after {
+
+font-family: "dashicons";
+
+content: "\f339";
+
+vertical-align:middle;
+
+}*/
+
+
+
+#motivation:before {
+
+font-family: "dashicons";
+
+vertical-align:middle;
+
+content: "\f110";
+
+margin-right:5px;
+
+}
+
+#createButton:before,
+
+#change_Text:before,
+
+#change_Hyperlink:before, 
+
+#change_Color:before,
+
+#colors_listed:before
+
+{
+
+font-family: "dashicons";
+
+vertical-align:middle;
+
+content: "\f107";
+
+margin-right:5px;
+
+}
+
+#first_aid:before {
+
+font-family: "dashicons";
+
+vertical-align:middle;
+
+content: "\f223";
+
+margin-right:5px;
+
+}
+
+#for_pros:before {
+
+font-family: "dashicons";
+
+vertical-align:middle;
+
+content: "\f348";
+
+margin-right:5px;
+
+}
+

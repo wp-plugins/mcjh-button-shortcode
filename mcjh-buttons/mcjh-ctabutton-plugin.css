@@ -1,0 +1,110 @@
+a.ctabutton {
+
+	text-decoration:none !important;
+
+	font-weight:900 !important;
+
+	width:200px;
+
+	height:36px;
+
+	padding-top:15px;
+
+	display:block;
+
+	background-repeat:no-repeat;
+
+	background-position:top left;
+
+	text-align:center;
+
+	background-size:cover !important;
+	
+	border:none;
+	
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+
+}
+
+
+
+a.ctabutton:hover {
+
+	opacity:0.9;
+
+	filter: alpha(opacity=90);
+	box-shadow:1px 1px 7px #fff;
+
+}	
+
+.mcjh-custom-color, .mcjh-custom-color:hover {
+	color:#fff !important;
+}
+
+.mcjh-blue, .mcjh-blue:hover {
+
+	color:#fff !important;
+
+}
+
+.mcjh-darkblue, .mcjh-darkblue:hover {
+
+	color:#fff !important;
+
+}
+
+.mcjh-green, .mcjh-green:hover {
+
+	color:#fff !important;
+
+	}
+
+.mcjh-darkgreen, .mcjh-darkgreen:hover {
+
+	color:#fff !important;
+
+	}
+
+.mcjh-grey, .mcjh-grey:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-lightgrey, .mcjh-lightgrey:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-orange, .mcjh-orange:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-pink, .mcjh-pink:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-purple, .mcjh-purple:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-red, .mcjh-red:hover{
+
+	color:#fff !important;
+
+	}
+
+.mcjh-yellow{
+
+	color:#fff !important;
+
+	}

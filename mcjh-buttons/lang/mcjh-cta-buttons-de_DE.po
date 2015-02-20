@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mcjh button shortcode v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-20 14:19:14+0000\n"
+"Last-Translator: user <marcus.hartmann@viracom.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: mcjh-cta-buttons.php:295
+#@ mcjh-cta-buttons
+msgid "You do not have sufficient permission to access this page"
+msgstr "Du hast nicht genügend Rechte, um diese Seite zu betreten."
+
+#: mcjh-cta-buttons.php:303
+#@ mcjh-cta-buttons
+msgid "CTA Button Shortcode"
+msgstr "CTA Button Shortcode"
+
+#: mcjh-cta-buttons.php:305
+#@ mcjh-cta-buttons
+msgid "This page is a short explanation how to use the Cta Button Shortcode."
+msgstr "Auf dieser Seite findest du eine kurze Erklärung, wie du den CTA Button Shortcode richtig anwenden kannst."
+
+#: mcjh-cta-buttons.php:305
+#@ mcjh-cta-buttons
+msgid "Each Hyperlink will get a \"/?src=<em>Number</em>?name=<em>button-text</em>\"-extension at the end. This extension can be used to analyze traffic and succes of each individual button with services like Google Analytics."
+msgstr "Jeder Hyperlink bekommt einen \"/?src=<em>Number</em>?name=<em>button-text</em>\"-Anhang. Dieser Anhang kann verwendet werden, um Traffic und Erfolg jedes einzelnen Buttons mit Services wie Google Analytics zu beobachten."
+
+#: mcjh-cta-buttons.php:307
+#@ mcjh-cta-buttons
+msgid "This plugin does not send any data or information from this extensions to the Developer or any third-party provider."
+msgstr "Dieses Plugin sendet keine Daten oder andere Informationen dieser Anhänge an den Entwickler oder einen Drittanbieter."
+
+#: mcjh-cta-buttons.php:315
+#@ default
+msgid "Content Directory"
+msgstr ""
+
+#: mcjh-cta-buttons.php:319
+#@ mcjh-cta-buttons
+msgid "Create a default Button"
+msgstr "Erstelle einen Standard-Button"
+
+#: mcjh-cta-buttons.php:321
+#@ mcjh-cta-buttons
+msgid "Change the text"
+msgstr "Ändere den Text"
+
+#: mcjh-cta-buttons.php:323
+#@ mcjh-cta-buttons
+msgid "Change the hyperlink"
+msgstr "Ändere den Hyperlink"
+
+#: mcjh-cta-buttons.php:325
+#@ mcjh-cta-buttons
+msgid "Change the color"
+msgstr "Ändere die Farbe"
+
+#: mcjh-cta-buttons.php:327
+#@ mcjh-cta-buttons
+msgid "Available Colors"
+msgstr "Verfügbare Farben"
+
+#: mcjh-cta-buttons.php:329
+#@ mcjh-cta-buttons
+msgid "Help and FAQ"
+msgstr "Hilfe und häufig gestellte Fragen"
+
+#: mcjh-cta-buttons.php:331
+#: mcjh-cta-buttons.php:532
+#@ mcjh-cta-buttons
+msgid "Some Information for Pros"
+msgstr "Infos für Vollpros"
+
+#: mcjh-cta-buttons.php:333
+#: mcjh-cta-buttons.php:543
+#@ mcjh-cta-buttons
+msgid "The Developer's Motivation"
+msgstr "Die Motivation des Entwicklers"
+
+#: mcjh-cta-buttons.php:345
+#@ mcjh-cta-buttons
+msgid "Create a default Button..."
+msgstr "Erstelle einen Standard-Button..."
+
+#: mcjh-cta-buttons.php:347
+#@ mcjh-cta-buttons
+msgid "...by using [createButton] in your Text-Editor."
+msgstr "...indem du [createButton] in den Text-Editor eingibst."
+
+#: mcjh-cta-buttons.php:353
+#@ mcjh-cta-buttons
+msgid "default-color: green"
+msgstr "Standard-Farbe: \\\"green\\\""
+
+#: mcjh-cta-buttons.php:355
+#@ mcjh-cta-buttons
+msgid "default-text: Click here"
+msgstr "Standard-Text: Click here"
+
+#: mcjh-cta-buttons.php:357
+#@ mcjh-cta-buttons
+msgid "default-hyperlink: to your Wordpress-Site"
+msgstr "Standard-Hyperlink: zu deiner Wordpress-Seite"
+
+#: mcjh-cta-buttons.php:367
+#@ default
+msgid "Change the text of your Button..."
+msgstr ""
+
+#: mcjh-cta-buttons.php:369
+#@ mcjh-cta-buttons
+msgid "...by adding <em>text=\"new text\"</em> after <em>createButton</em> to your shortcode:"
+msgstr "... indem du  <em>text=\"new text\"</em> nach <em>createButton</em> zum Shortcode hinzufügst:"
+
+#: mcjh-cta-buttons.php:381
+#@ mcjh-cta-buttons
+msgid "Change the hyperlink of your Button.."
+msgstr "Ändere den Hyperlink deines Buttons..."
+
+#: mcjh-cta-buttons.php:383
+#@ mcjh-cta-buttons
+msgid "...by adding <em>link=\"http://www.google.com\"</em> after <em>createButton</em> to your shortcode:"
+msgstr "...indem du <em>link=\"http://www.google.com\"</em> nach <em>createButton</em> zu deinem Shortcode hinzufügst:"
+
+#: mcjh-cta-buttons.php:395
+#@ mcjh-cta-buttons
+msgid "Change the color of your Button..."
+msgstr "Ändere die Farbe deines Buttons..."
+
+#: mcjh-cta-buttons.php:397
+#@ mcjh-cta-buttons
+msgid "...by adding <em>color=\"blue\"</em> after <em>createButton</em> to your shortcode:"
+msgstr "... indem du <em>color=\"blue\"</em> nach <em>createButton</em> zu deinem Shortcode hinzufügst"
+
+#: mcjh-cta-buttons.php:413
+#@ mcjh-cta-buttons
+msgid "All button-colors"
+msgstr "Alle Buttonfarben"
+
+#: mcjh-cta-buttons.php:502
+#@ mcjh-cta-buttons
+msgid "First Aid Assistant"
+msgstr "Erste Hilfe"
+
+#: mcjh-cta-buttons.php:504
+#@ mcjh-cta-buttons
+msgid "It might happen, that something does not work the way it is expected to. In this case, please follow these steps:"
+msgstr "Es kann passieren, dass etwas nicht so funktioniert, wie es funktionieren soll. Befolge folgende Schritte:"
+
+#: mcjh-cta-buttons.php:510
+#@ mcjh-cta-buttons
+msgid "Keep calm and don't panic!"
+msgstr "Ruhe bewahren und nicht panisch werden!"
+
+#: mcjh-cta-buttons.php:512
+#@ mcjh-cta-buttons
+msgid "The button doesn't even appeare: </strong>Check your shortcode for typing errors. It might say [CraeteButon] instead of [createButton]"
+msgstr "Der Button erscheint nicht mal: </strong>Suche in deinem Shortcode nach Tippfehlern. Vielleicht hast du [CraeteButon] statt [createButton] eingetippt"
+
+#: mcjh-cta-buttons.php:514
+#@ mcjh-cta-buttons
+msgid "There is just the first word of my text: </strong>Check your text. You might forgott some quotationmarks."
+msgstr "Es wird nur das erste Wort meines Textes angezeigt: </strong>Überprüfe deinen Text. Vielleicht hast du ein Gänsefüßchen vergessen."
+
+#: mcjh-cta-buttons.php:516
+#@ mcjh-cta-buttons
+msgid "The hyperlink doesn't work: </strong>Make sure you did not forgett a 'http://' in front of your URL"
+msgstr "Der Hyperlink funktioniert nicht: </strong> Überprüfe, ob du das 'http://' vor der URL vergessen hast"
+
+#: mcjh-cta-buttons.php:518
+#@ mcjh-cta-buttons
+msgid "The button doesn't show my defined color: </strong> Have a look at the colors list."
+msgstr "Der Button zeigt nicht die gewünschte Farbe: </strong> Wirf einen Blick auf die Farbliste"
+
+#: mcjh-cta-buttons.php:520
+#@ mcjh-cta-buttons
+msgid "I can't even read this list: </strong> ...a fail in the matrix!"
+msgstr "Ich kann nicht mal diese Liste sehen: </strong> ... ein Fehler in der Matrix!"
+
+#: mcjh-cta-buttons.php:547
+#@ mcjh-cta-buttons
+msgid "I worked a lot with Wordpress and its plugins in my old company."
+msgstr "In meiner alten Firma habe ich sehr viel mit Wordpress und seinen Plugins gearbeitet."
+
+#: mcjh-cta-buttons.php:549
+#@ mcjh-cta-buttons
+msgid "While relaunching our website we wanted to add some so called \"cta buttons\" (=call to action)"
+msgstr "Während des Relaunches der Firmenwebseite wollten wir sogenannte \"cta-Buttons \" (=call to action) in den Text einfügen."
+
+#: mcjh-cta-buttons.php:551
+#@ mcjh-cta-buttons
+msgid "They should offer a simple shortcode-system and an easy way for monitoring their success with allready existing tools."
+msgstr "Sie sollten ein einfaches Shortcode-System bieten und eine einfache Möglichkeit, um die Effektivität der einzelnen Buttons mit bestehenden Mitteln nachzuvollziehen"
+
+#: mcjh-cta-buttons.php:553
+#@ mcjh-cta-buttons
+msgid " We tried many different plugins, but the results never were realy satisfying. Instead, we had compatibility issues."
+msgstr "Wir probierten viele verschiedene Plugins, aber die Ergebnisse waren nie zufriedenstellend und es gab endlose Kompatibilitätsprobleme."
+
+#: mcjh-cta-buttons.php:555
+#@ mcjh-cta-buttons
+msgid "After finishing my apprenticeship, I needed those damn cta-Buttons again for my own website. So I startet experimenting around. And in the end, I wrote this little plugin."
+msgstr "Nach Abschluss meiner Ausbildung benötigte ich diese CTA-Buttons für meine eigene Website. Ich begann, mit Shortcodes zu experimentieren und das Ergebnis ist dieses kleine Plugin."
+
+#: mcjh-cta-buttons.php:559
+#@ mcjh-cta-buttons
+msgid "Have a nice day"
+msgstr "mit freundlichen Grüßen"
+
+#: mcjh-cta-buttons.php:561
+#@ mcjh-cta-buttons
+msgid "Marcus C. J. Hartmann"
+msgstr "Marcus C. J. Hartmann"
+
+#: mcjh-cta-buttons.php:402
+#@ mcjh-cta-buttons
+msgid "OR:"
+msgstr "Oder:"
+
+#: mcjh-cta-buttons.php:403
+#@ mcjh-cta-buttons
+msgid "Use any valid hexadecimal color code!"
+msgstr "Verwende einen beliebigen, validen Hexadezimal-Farbcode"
+
+#: mcjh-cta-buttons.php:486
+#@ mcjh-cta-buttons
+msgid "or any other valid hexadecimal color code!"
+msgstr "oder ein anderer Hexadezimal-Code"
+
+#: mcjh-cta-buttons.php:534
+#@ mcjh-cta-buttons
+msgid "Well, there is nothing interessting for pros. So sorry, dude!"
+msgstr "Nun ja. Leider gibts für Profis hier nichts Interessantes zu sehen. Tut mir echt leid, Kumpel!"
+
