@@ -32,7 +32,9 @@ Yes, it is. And for sure it will allways be.
 = 1.2 =
 * Fixed Bugs
 = 1.3 =
-* Fixed
+* Fixed Bugs
+= 1.4 =
+* Fixed Bugs
 
 == Upgrade Notice ==
 No upgrades, cause it\'s free, babe!

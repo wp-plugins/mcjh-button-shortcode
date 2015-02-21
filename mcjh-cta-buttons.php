@@ -10,7 +10,7 @@ Plugin URI: http://www.mcjh-medien.de/plugin-shortcode-buttons/
 
 Description: Vielfältige Buttons erstellen, ausschließlich durch Shortcodes
 
-Version: 1.3
+Version: 1.4
 
 Author: Marcus C. J. Hartmann
 
