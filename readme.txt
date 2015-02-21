@@ -29,6 +29,10 @@ Yes, it is. And for sure it will allways be.
 * Plugin-Release on 20. February 2015
 = 1.1 =
 * Fixed Bugs and completed german language .mo and .po
+= 1.2 =
+* Fixed Bugs
+= 1.3 =
+* Fixed
 
 == Upgrade Notice ==
 No upgrades, cause it\'s free, babe!
